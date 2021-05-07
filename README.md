@@ -1,10 +1,13 @@
 # learningJava
-I am learning Java.These are my self-study exercise code.  
+## I am learning Java.These are my self-study exercise code.
+
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 练习1：给定["a","b","a","b","c","a","b","c","b"]字符串数组，然后使用Map的key来保存数组的字符串元素，value保存该字符串元素出现的次数。
-代码：
+代码:
+
+```java
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
